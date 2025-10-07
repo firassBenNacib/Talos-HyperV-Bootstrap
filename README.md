@@ -2,6 +2,11 @@
 
 An interactive PowerShell script for creating and bootstrapping Kubernetes clusters on Talos Linux with Hyper-V.
 
+### Demo
+
+[![screencast](https://raw.githubusercontent.com/firassBenNacib/Talos-HyperV-Bootstrap/refs/heads/main/demo/demo.gif)](https://asciinema.org/a/747251)
+
+
 ## Table of Contents
 
 * [Prerequisites](#prerequisites)
@@ -9,6 +14,7 @@ An interactive PowerShell script for creating and bootstrapping Kubernetes clust
 * [Usage](#usage)
 * [Commands](#commands)
 * [Options](#options)
+* [Credits](#credits)
 * [License](#license)
 * [Author](#author)
 
@@ -158,6 +164,9 @@ Commands
 
 * `-ResizeDisk <size>` | `-AddDisk <size>`
 * `-ControlPlanesOnly` | `-WorkersOnly` | `-Node <vm[,vm...]>`
+
+## Credits
+- [New-TalosVM](https://github.com/nebula-it/New-TalosVM)
 
 ## License
 
