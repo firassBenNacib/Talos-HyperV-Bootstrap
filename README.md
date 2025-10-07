@@ -123,7 +123,7 @@ Commands
   help          Show help
 ```
 
-## Key options
+## Options
 
 **Global**
 
