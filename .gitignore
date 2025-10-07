@@ -1,0 +1,6 @@
+/*
+!/.gitignore
+!/Talos.ps1
+!/templates/
+/templates/*
+!/templates/static-net.tmpl.yaml
