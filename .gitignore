@@ -5,4 +5,4 @@
 /templates/*
 !/templates/static-net.tmpl.yaml
 !/README.md
-!/demo/demo.gif
+!/demo
